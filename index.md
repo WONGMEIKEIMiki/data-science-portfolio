@@ -12,7 +12,7 @@ I enjoy cleaning, exploring data and building honest, easy to interpret visualiz
 - Documenting data projects for reproducibility
 - Basic financial trend interpretation
 
-## 📁 Featured Project: Spotify Financial Performance Analysis (2021 2025)
+## 📁 Featured Project: Spotify Financial Performance Analysis (2021-2025)
 ✅ Project status: Completed
 
 **Research question**:
